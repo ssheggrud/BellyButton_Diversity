@@ -1,0 +1,14 @@
+  .body {
+    font: "Garamond";
+    background-color: #5489cf;
+  }
+  .jumbotron {
+    background-image: url("images/bacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(244, 248, 248);
+    text-shadow: 2px 2px black;
+  }
+  .h3 {
+      font: "Garamond";
+  }
